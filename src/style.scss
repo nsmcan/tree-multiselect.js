@@ -47,6 +47,7 @@ div.tree-multiselect {
       border-radius: 2px;
       padding: 2px 5px;
       overflow: auto;
+      clear: both;
     }
 
     &.ui-sortable > div.item:hover {
